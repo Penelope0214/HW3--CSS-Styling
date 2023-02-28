@@ -6,7 +6,15 @@
 </head>
 <style>
 /*internal CSS*/
-body{width:670px;}
+body {
+   width: 680px;
+   margin-left:auto;
+   margin-right:auto;
+   border-width:thick;
+   border-style:double;
+   border-color:purple; }
+
+
 
 
 
