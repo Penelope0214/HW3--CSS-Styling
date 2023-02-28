@@ -12,9 +12,14 @@ body {
    margin-right:auto;
    border-width:thick;
    border-style:double;
-   border-color:purple; }
-
-
+   border-color:purple;
+   padding;20px;
+ }
+nav {
+   border-width:thin;
+   border-style:double;
+   border-color:purple;
+}
 
 
 
